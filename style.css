@@ -1,7 +1,17 @@
 body {
-  background-color: PowderBlue;
+  background-color: yellow;
   font-family: verdana;
 }
 h1 {
   font-weight: bold;
+}
+h2 {
+  color: green;
+}
+h3
+{
+  color: blue;
+}
+h4{
+  color: red;
 }
